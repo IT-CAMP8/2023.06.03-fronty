@@ -1,0 +1,30 @@
+.k1 {
+    background: red;
+    color: #255b7a;
+    font-size: 40px;
+    border: 1px solid black;
+    margin: 10px 15px 6px 4px;
+    padding: 10px;
+    width: 15px;
+    height: 20px;
+}
+
+html body div div label {
+    color: green;
+}
+
+form label {
+    color: pink;
+}
+
+form .k1 {
+
+}
+
+div div form .k1 #id {
+
+}
+
+#tekst {
+    background: #255b7a;
+}
